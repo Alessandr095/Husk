@@ -11,17 +11,22 @@ body{
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    color: #ffffff;
+    color: #3a3a3a;
     font-family: 'Playfair Display', serif;
 }
 header {
-background-color: black;
+background-color: #ffffff;
+padding: 0 1rem;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+    box-shadow: 0 2px 2px #3a3a3a;
 }
 h1 {
     font-family: 'Noto Serif', serif;
 }
 main {
-background-color: #2f4f4f;
+background-color: #ffffff;
 /*Make main element take up surplus space to push footer to bottom*/
 flex: 1 0 auto;
 }
