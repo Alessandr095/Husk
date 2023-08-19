@@ -6,12 +6,21 @@
     margin: 0;
     box-sizing: border-box;
 }
+body{
+    /*General Styles*/
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    color: #ffffff;
+}
 header {
 background-color: black;
 }
 
 main {
 background-color: #2f4f4f;
+/*Make main element take up surplus space to push footer to bottom*/
+flex: 1 0 auto;
 }
 
 footer{
