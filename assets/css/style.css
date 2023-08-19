@@ -1,12 +1,14 @@
 /* Google Fonts*/
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@100;300;400;500&family=Playfair+Display:wght@400;500;600;700&display=swap');
+
 /* Astrisk wildcard selector, overides default styles*/
 * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
-body{
+
+body {
     /*General Styles*/
     min-height: 100vh;
     display: flex;
@@ -14,41 +16,74 @@ body{
     color: #3a3a3a;
     font-family: 'Playfair Display', serif;
 }
+
 header {
-background-color: #ffffff;
-padding: 0 1rem;
+    background-color: #ffffff;
+    padding: 0 1rem;
     position: fixed;
     z-index: 99;
     width: 100%;
     box-shadow: 0 2px 2px #3a3a3a;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
 }
+
 header a {
     text-decoration: none;
     color: inherit;
 }
+
 h1 {
     font-family: 'Noto Serif', serif;
     text-transform: uppercase;
     letter-spacing: 2px;
     color: #343434;
 }
+
 #menu {
     font-size: 110%;
     letter-spacing: 4px;
     list-style-type: none;
 }
+
 #menu>li {
     margin-bottom: 1em;
 }
+
 .active {
     border-bottom: 2px solid #3a3a3a;
 }
-main {
-background-color: #ffffff;
-/*Make main element take up surplus space to push footer to bottom*/
-flex: 1 0 auto;
+
+/*Nav Bar drop down toggle*/
+nav {
+    position: absolute;
+    background-color: #ffffff;
+    width: 100%;
+    left: 0;
+    padding: 0 1rem;
+    box-shadow: 0 2px 2px #3a3a3a;
+    display: none;
+    top: 100%;
+}
+#nav-toggle:checked~nav {
+    display: block;
+}
+#nav-toggle {
+    display: none;
+
+}
+.nav-toggle-label {
+    font-size: 2rem;
 }
 
-footer{
-background-color: black;
+main {
+    background-color: #ffffff;
+    /*Make main element take up surplus space to push footer to bottom*/
+    flex: 1 0 auto;
+    margin-top: 47px;
+}
+
+footer {
+    background-color: black;
 }
