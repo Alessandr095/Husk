@@ -107,7 +107,15 @@ footer {
     .nav-toggle-label {
         display: none;
     }
+    #logo {
+        font-size: 210%;
+        line-height: 75px;
         
+    }
+    main {
+        margin-top: 75px;
+    }
+     
     
 }
     
