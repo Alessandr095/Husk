@@ -66,13 +66,16 @@ nav {
     display: none;
     top: 100%;
 }
+
 #nav-toggle:checked~nav {
     display: block;
 }
+
 #nav-toggle {
     display: none;
 
 }
+
 .nav-toggle-label {
     font-size: 2rem;
 }
@@ -84,45 +87,73 @@ main {
     margin-top: 47px;
 }
 
-footer {
-    background-color: black;
+.footer-style {
+    background-color: #000000;
 }
+
+
+#social-networks {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+
+}
+
+#social-networks i {
+    font-size: 120%;
+    padding: 5%;
+    color: #ffffff;
+}
+
+#details {
+    text-align: center;
+    padding: 0 10px 10px 10px;
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    font-size: 80%;
+}
+
 @media screen and (min-width: 768px) {
     nav {
-       display: block;
-       position: relative;
-       box-shadow: none;
-       width: fit-content;
-       
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+
     }
+
     #menu {
         display: flex;
-    } 
+    }
 
-    #menu > li {
+    #menu>li {
         font-size: 14px;
         margin-left: 40px;
-        }
+    }
 
     .nav-toggle-label {
         display: none;
     }
+
     #logo {
         font-size: 210%;
         line-height: 75px;
-        
+
     }
+
     main {
         margin-top: 75px;
     }
 }
 
-        /* Large devices (laptops and desktops, 992px and up) */
-        @media screen and (min-width: 992px) {
-            #menu a:hover {
-                border-bottom: 2px solid #3a3a3a;
-            }
-     
-    
-        }
-    
+/* Large devices (laptops and desktops, 992px and up) */
+@media screen and (min-width: 992px) {
+    #menu a:hover {
+        border-bottom: 2px solid #3a3a3a;
+    }
+
+
+}
