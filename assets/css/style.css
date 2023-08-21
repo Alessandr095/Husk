@@ -149,8 +149,25 @@ main {
     align-items: center;
     justify-content: center;
 }
+.center {
+    text-align: center;
+    padding-bottom: 20px;
+}
+.res-button {
+padding: 10px 20px;
+background-color: #3a3a3a;
+color: white;
+text-align: center;
+text-decoration: none;
+border: none;
+border-radius: 5px;
+font-size: 20px;
+cursor: pointer;
+}
 
-
+.res-button:hover {
+    background-color: #626262;
+}
 
 .footer-style {
     background-color: #000000;
@@ -236,7 +253,6 @@ main {
         align-self: flex-end;
     }
 
-
 }
 
 /* Large devices (laptops and desktops, 992px and up) */
@@ -245,8 +261,8 @@ main {
         border-bottom: 2px solid #3a3a3a;
     }
 
-
 }
+
 @media screen and (min-width: 1200px) {
 
     /* Reasons section */
