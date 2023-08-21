@@ -149,8 +149,19 @@ main {
     align-items: center;
     justify-content: center;
 }
+#open-times {
+    display: flex;
+    flex-wrap: wrap;
+}
+#open-times>div {
+    text-align: center;
+    padding: 15px;
+    flex-basis: 200px;
+    flex-grow: 1;
+} 
 .center {
     text-align: center;
+    padding-top: 20px;
     padding-bottom: 20px;
 }
 .res-button {
