@@ -187,6 +187,10 @@ cursor: pointer;
 #photos {
     line-height: 0;
 }
+#dishes {
+    display: flex;
+    justify-content: end;
+}
 
 .footer-style {
     background-color: #000000;
@@ -216,6 +220,14 @@ cursor: pointer;
     list-style-type: none;
     font-size: 90%;
     color: #626262;
+}
+@media screen and (min-width: 567px) {
+
+    #photos {
+        column-count: 2;
+        column-gap: 0;
+    
+}
 }
 
 @media screen and (min-width: 768px) {
@@ -271,6 +283,9 @@ cursor: pointer;
         text-align: end;
         align-self: flex-end;
     }
+    #photos {
+        column-count: 3;
+    }
 
 }
 
@@ -278,6 +293,9 @@ cursor: pointer;
 @media screen and (min-width: 992px) {
     #menu a:hover {
         border-bottom: 2px solid #3a3a3a;
+    }
+    #photos {
+        column-count: 3;
     }
 
 }
