@@ -16,7 +16,9 @@ body {
     color: #3a3a3a;
     font-family: 'Playfair Display', serif;
 }
-h1,h2 {
+
+h1,
+h2 {
     font-family: 'Noto Serif', serif;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -85,12 +87,14 @@ main {
     flex: 1 0 auto;
     margin-top: 47px;
 }
+
 #main-photo {
     height: 600px;
     width: 100%;
     background: url("../images/main-photo.webp") no-repeat center center/cover;
     position: relative;
 }
+
 #welcome-text {
     background-color: rgba(250, 249, 246, .7);
     font-size: 130%;
@@ -101,10 +105,11 @@ main {
     padding-top: 40px;
     padding-left: 10px;
 }
+
 #main-page {
     width: 90%;
     margin: 20px auto;
-    
+
 }
 
 #main-page h2 {
@@ -127,6 +132,7 @@ main {
     border-top: 1px solid #3a3a3a;
     margin: 5px 0;
 }
+
 #circle {
     background: url('../images/info-photo.webp') no-repeat top center / cover;
     height: 90vw;
@@ -207,10 +213,30 @@ main {
     main {
         margin-top: 75px;
     }
+
     #welcome-text {
         width: 300px;
         right: 50px;
     }
+
+    #about-husk,
+    #team {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    #about-husk>div,
+    #team>div {
+        width: 75%;
+    }
+
+    #team>div {
+        text-align: end;
+        align-self: flex-end;
+    }
+
+
 }
 
 /* Large devices (laptops and desktops, 992px and up) */
@@ -220,4 +246,32 @@ main {
     }
 
 
+}
+@media screen and (min-width: 1200px) {
+
+    /* Reasons section */
+    #main-info {
+        display: flex;
+        flex-direction: row;
+    }
+
+    #main-info>div {
+        flex: 1;
+    }
+
+    #info-photo {
+        order: 0
+    }
+
+    #team {
+        order: 1;
+    }
+
+    #team>div {
+        align-self: flex-start;
+    }
+
+    #about-husk>div {
+        align-self: flex-end;
+    }
 }
