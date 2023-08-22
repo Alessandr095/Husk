@@ -194,10 +194,53 @@ main {
     line-height: 0;
 }
 
+#photographer {
+    display: flex;
+    justify-content: flex-start;
+    color: #3a3a3a;
+}
+
 #dishes {
     display: flex;
     justify-content: end;
 }
+
+/* Menu Page*/
+
+        
+#menu-photo {
+    height: 600px;
+    width: 100%;
+    background: url("../images/menu-photo.webp") no-repeat center center/cover;
+    position: relative;
+}
+
+#menu-title {
+    text-align: center;
+    padding: 5px 5px 5px 5px;
+}
+
+.pricing {
+    text-align: center;
+    padding: 5px 5px 5px 5px;
+
+}
+
+hr {
+    border: none;
+    height: 2px;
+    background-color: #3a3a3a;
+    text-align: center;
+
+}
+
+.menu-item {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    
+}
+
 
 .footer-style {
     background-color: #000000;
@@ -236,6 +279,7 @@ main {
         column-gap: 0;
 
     }
+
 }
 
 @media screen and (min-width: 768px) {
@@ -306,6 +350,10 @@ main {
 
     #photos {
         column-count: 3;
+    }
+
+    #menu-title {
+        font-size: 160%;
     }
 
 }
