@@ -149,44 +149,51 @@ main {
     align-items: center;
     justify-content: center;
 }
+
 #open-times {
     display: flex;
     flex-wrap: wrap;
 }
+
 #open-times>div {
     text-align: center;
     padding: 15px;
     flex-basis: 200px;
     flex-grow: 1;
-} 
+}
+
 .center {
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
 }
+
 .res-button {
-padding: 10px 20px;
-background-color: #3a3a3a;
-color: white;
-text-align: center;
-text-decoration: none;
-border: none;
-border-radius: 5px;
-font-size: 20px;
-cursor: pointer;
+    padding: 10px 20px;
+    background-color: #3a3a3a;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    cursor: pointer;
 }
 
 .res-button:hover {
     background-color: #626262;
 }
+
 /*Gallery Page*/
 #photos img {
     width: 100%;
     line-height: 0;
 }
+
 #photos {
     line-height: 0;
 }
+
 #dishes {
     display: flex;
     justify-content: end;
@@ -221,13 +228,14 @@ cursor: pointer;
     font-size: 90%;
     color: #626262;
 }
+
 @media screen and (min-width: 567px) {
 
     #photos {
         column-count: 2;
         column-gap: 0;
-    
-}
+
+    }
 }
 
 @media screen and (min-width: 768px) {
@@ -283,6 +291,7 @@ cursor: pointer;
         text-align: end;
         align-self: flex-end;
     }
+
     #photos {
         column-count: 3;
     }
@@ -294,6 +303,7 @@ cursor: pointer;
     #menu a:hover {
         border-bottom: 2px solid #3a3a3a;
     }
+
     #photos {
         column-count: 3;
     }
