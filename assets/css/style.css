@@ -24,6 +24,9 @@ h2 {
     letter-spacing: 2px;
     color: #343434;
 }
+.hidden-heading {
+    display: none;
+}
 
 header {
     background-color: #ffffff;
