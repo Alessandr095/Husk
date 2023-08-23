@@ -46,7 +46,7 @@ header a {
 }
 
 #menu {
-    font-size: 110%;
+    font-size: 120%;
     letter-spacing: 4px;
     list-style-type: none;
 }
@@ -359,7 +359,7 @@ hr {
     }
 
     #menu>li {
-        font-size: 14px;
+        font-size: 16px;
         margin-left: 40px;
     }
 
@@ -424,7 +424,7 @@ hr {
 
 @media screen and (min-width: 1200px) {
 
-    /* Reasons section */
+    
     #main-info {
         display: flex;
         flex-direction: row;
