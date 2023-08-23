@@ -247,7 +247,7 @@ hr {
 .menu-item {
     text-align: center;
     padding-top: 30px;
-    padding-bottom: 10px;
+    padding-bottom: 20px;
 
 }
 
@@ -312,7 +312,7 @@ hr {
 
 #social-networks {
     text-align: center;
-    padding: 20px 0;
+    padding: 20px 0px 10px 0px;
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
@@ -326,13 +326,8 @@ hr {
 }
 
 #details {
-    text-align: center;
-    padding: 0 5px 10px 10px;
-    display: flex;
-    justify-content: space-between;
-    list-style-type: none;
-    font-size: 90%;
-    color: #626262;
+    color: #a8a8a8;
+    font-size: 80%;
 }
 
 @media screen and (min-width: 567px) {
