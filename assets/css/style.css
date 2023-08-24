@@ -24,6 +24,7 @@ h2 {
     letter-spacing: 2px;
     color: #343434;
 }
+
 .hidden-heading {
     display: none;
 }
@@ -130,10 +131,12 @@ main {
 #team>div {
     line-height: 20px;
     margin-bottom: 20px;
+
 }
 
 #main-info p {
     padding: 0 20px;
+
 }
 
 #main-info hr {
@@ -141,26 +144,45 @@ main {
     margin: 5px 0;
 }
 
-#circle {
+#photo1 {
     background: url('../images/info-photo.webp') no-repeat top center / cover;
     height: 90vw;
     width: 90vw;
     margin-bottom: 20px;
     /* Makes image into a circle */
     border-radius: 50%;
-    max-width: 300px;
-    max-height: 300px;
+    max-width: 350px;
+    max-height: 350px;
 }
 
-#info-photo {
-    display: flex;
-    align-items: center;
-    justify-content: center;
+#photo2 {
+    background: url('../images/info-photo2.webp') no-repeat top center / cover;
+    height: 90vw;
+    width: 90vw;
+    margin-bottom: 20px;
+    /* Makes image into a circle */
+    border-radius: 50%;
+    max-width: 350px;
+    max-height: 350px;
 }
 
-#open-times {
+
+#info-photo1 {
+    padding-top: 20px;
     display: flex;
-    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+#info-photo2 {
+    padding-top: 20px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+
+#quote {
+    padding: 0px 20px 20px 20px;
 }
 
 #open-times>div {
@@ -171,9 +193,10 @@ main {
 }
 
 .center {
-    text-align: center;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    padding: 20px 20px 20px 20px;
+
 }
 
 .res-button {
@@ -261,18 +284,18 @@ hr {
 
 }
 
-#reservatiion {
-    background-size: cover;
-    background-position: 75%;
-    padding: 20px 10% 0 10%;
-    flex-grow: 1;
+#reservations {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
 }
 
-
 #reservation-form {
+    display: inline-block;
     color: #ffffff;
     background-color: rgba(60, 60, 60, 0.6);
-    padding: 30px;
+    padding: 30px
 }
 
 
@@ -367,7 +390,7 @@ hr {
         line-height: 75px;
 
     }
-
+       
     main {
         margin-top: 75px;
     }
@@ -398,7 +421,13 @@ hr {
         column-count: 3;
     }
 
-   
+    #quote {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+
+
 }
 
 /* Large devices (laptops and desktops, 992px and up) */
@@ -419,29 +448,37 @@ hr {
 
 @media screen and (min-width: 1200px) {
 
-    
+
     #main-info {
         display: flex;
         flex-direction: row;
+        padding-left: 100px;
+        padding-right: 100px;
     }
 
     #main-info>div {
         flex: 1;
     }
 
-    #info-photo {
-        order: 0
+    #about-husk,
+    #team {
+        display: flex;
+        width: 100%;
     }
 
-    #team {
-        order: 1;
+    #about-husk>div,
+    #team>div {
+        width: 75%;
     }
 
     #team>div {
-        align-self: flex-start;
-    }
-
-    #about-husk>div {
+        text-align: end;
         align-self: flex-end;
     }
+
+    #team>p {
+        align-self: flex-end;
+    }
+
+
 }
