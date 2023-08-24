@@ -296,9 +296,6 @@ hr {
     color: #ffffff;
     background-color: rgba(60, 60, 60, 0.6);
     padding: 30px;
-
-
-
 }
 
 
@@ -469,8 +466,8 @@ hr {
     #main-info {
         display: flex;
         flex-direction: row;
-        padding-left: 100px;
-        padding-right: 100px;
+        padding-left: 200px;
+        padding-right: 200px;
     }
 
     #main-info>div {
