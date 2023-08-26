@@ -74,3 +74,9 @@ The purpose of the website is to catch the eye of a potential customer, with bol
 - Snippets of colour pallet.
 
 ![Husk](assets/images/snippet1.webp) ![Husk](assets/images/snippet2.webp) ![Husk](assets/images/snippet3.webp) ![Husk](assets/images/snippet4.webp) ![Husk](assets/images/snippet5.webp)
+
+### Wire frame.
+
+![Husk](assets/images/wire.webp)
+
+- the structure of the website with all pages having hero images besides the Gallery give the website consistancy.
