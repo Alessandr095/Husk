@@ -71,10 +71,6 @@ The purpose of the website is to catch the eye of a potential customer, with bol
 * A serif font has been used throughout as it give is a more upclass feel to the website, with clean spacing.
 * the design of the website is to be as minimal as possible, it is to be direct and to the point for the user to find infomation and make a reservation based on that information.
 
-- Snippets of colour pallet.
-
-![Husk](assets/images/snippet1.webp) ![Husk](assets/images/snippet2.webp) ![Husk](assets/images/snippet3.webp) ![Husk](assets/images/snippet4.webp) ![Husk](assets/images/snippet5.webp)
-
 ### Wire frame.
 
 ![Husk](assets/images/wire.webp)
@@ -113,7 +109,32 @@ The purpose of the website is to catch the eye of a potential customer, with bol
 
 - Lighthouse score.
 
-  ![Husk](assets/images/lighthouse.webp)
+![Husk](assets/images/lighthouse.webp)
 
-  - Accessability.
-  - I tested visability and accessablity through Wave and no contrast errors, errors or alerts popped up.
+- Accessability.
+- I tested visability and accessablity through Wave and no contrast errors, errors or alerts popped up.
+
+### Unfixed bugs.
+
+- no unfixed bugs.
+
+  ### Deployment
+
+  - Husk is deployed on GitHub Pages.
+  - Steps to deploy :
+  - Navigate to the settings tab
+  - got to source section and select master branch
+  - once the master branch is selected the site will be live.
+
+  * Live link to Husk can be found here: <https://alessandr095.github.io/Husk/>
+
+### Credits.
+
+- Code for the nav bar and drop down toggle were used from CI Love Running Project.
+- Code for the Gallery responsivness was used from CI Love Running project
+- Indepth flex box infomation from W3C
+- form semantics from developer.mozilla
+
+### Media.
+
+- All media for Husk website was used from Pintrest.
