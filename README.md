@@ -64,8 +64,13 @@ The purpose of the website is to catch the eye of a potential customer, with bol
 
 ## Design
 
-- General Structure.
+### General Structure.
 
-* All colours and shades throughout the website are harmonious, with a deep earthy tone, from the plates in the images of the dishes to the hero images are each page, all linked giving a sense of consistency.
+- All colours and shades throughout the website are harmonious, with a deep earthy tone, from the plates in the images of the dishes to the hero images are each page, all linked giving a sense of consistency.
+
 * A serif font has been used throughout as it give is a more upclass feel to the website, with clean spacing.
 * the design of the website is to be as minimal as possible, it is to be direct and to the point for the user to find infomation and make a reservation based on that information.
+
+- Snippets of colour pallet.
+
+![Husk](assets/images/snippet1.webp) ![Husk](assets/images/snippet2.webp) ![Husk](assets/images/snippet3.webp) ![Husk](assets/images/snippet4.webp) ![Husk](assets/images/snippet5.webp)
