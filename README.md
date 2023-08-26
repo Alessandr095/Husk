@@ -28,12 +28,20 @@ The purpose of the website is to catch the eye of a potential customer, with bol
   
   ![Husk](assets/images/about-team.webp)
   
-  * Opening times section.
+* Opening times section.
   - the section is set up in the way it is to show the user the information they are looking for quickly, with no diversion.
   
   ![Husk](assets/images/times.webp)
   
-  * Reservation button
+* Reservation button
   - a link feature to bring the user directly to the reservation page
+  
   ![Husk](assets/images/book-button.webp)
+
+* The footer.
+  - This section includes direct links to social media site of Husk.
+  - all links open in a new tab.
+
+![Husk](assets/images/footer.webp)
+  
   
