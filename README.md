@@ -33,8 +33,7 @@ The purpose of the website is to catch the eye of a potential customer, with bol
   
   ![Husk](assets/images/times.webp)
   
-   * Reservations button.
-  - a link to the reservation page, ease of access for the user.
-
-![Husk](assets/images/book-button.webp)
+  * Reservation button
+  - a link feature to bring the user directly to the reservation page
+  ![Husk](assets/images/book-button.webp)
   
