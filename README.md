@@ -26,19 +26,19 @@ The purpose of the website is to catch the eye of a potential customer, with bol
   - This section is a clear indication of what the restaurant is about. with images and a brief desciption it give the user infomation without overwhelming them.
   - This section is designed to grab the attention of the user and make the a potentional customer with and explanation into what the restaurant is about.
 
-  ![Husk](assets/images/about-team.webp)
+![Husk](assets/images/about-team.webp)
 
 - Opening times section.
 
   - the section is set up in the way it is to show the user the information they are looking for quickly, with no diversion.
 
-  ![Husk](assets/images/times.webp)
+![Husk](assets/images/times.webp)
 
 - Reservation button
 
   - a link feature to bring the user directly to the reservation page
 
-  ![Husk](assets/images/book-button.webp)
+![Husk](assets/images/book-button.webp)
 
 - The footer.
   - This section includes direct links to social media site of Husk.
@@ -56,6 +56,4 @@ The purpose of the website is to catch the eye of a potential customer, with bol
 
   - this page provides the user with visual information on to expect at Husk, with HD photography of food, drinks and kitchen in action.
 
-  ![Husk](assets/images/gallery.webp)
-
-  - test
+![Husk](assets/images/gallery.webp)
