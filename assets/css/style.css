@@ -28,7 +28,7 @@ h2 {
 .hidden-heading {
     display: none;
 }
-
+/*Header Styling*/
 header {
     background-color: #ffffff;
     padding: 0 1rem;
@@ -45,7 +45,7 @@ header a {
     text-decoration: none;
     color: inherit;
 }
-
+/*Menu styling*/
 #menu {
     font-size: 120%;
     letter-spacing: 4px;
@@ -84,7 +84,7 @@ nav {
 .nav-toggle-label {
     font-size: 2rem;
 }
-
+/*Main content styling*/
 main {
     background-color: antiquewhite;
     /*Make main element take up surplus space to push footer to bottom*/
@@ -140,7 +140,7 @@ main {
     border-top: 1px solid #3a3a3a;
     margin: 5px 0;
 }
-
+/*Main page Photos*/
 #photo1 {
     background: url('../images/info-photo.webp') no-repeat top center / cover;
     height: 90vw;
@@ -195,7 +195,7 @@ main {
     padding: 20px 20px 20px 20px;
 
 }
-
+/*Reservation button styling*/
 .res-button {
     padding: 10px 20px;
     background-color: #3a3a3a;
@@ -234,7 +234,6 @@ main {
 }
 
 /* Menu Page*/
-
 
 #menu-photo {
     height: 600px;
@@ -316,7 +315,7 @@ hr {
     padding: 0 5px;
 }
 
-
+/*Book Now Button on form*/
 .book-now {
     margin-top: 20px;
     border-radius: 2px;
@@ -332,7 +331,7 @@ hr {
     background-color: #000000;
 }
 
-
+/*Footer link styling*/
 #social-networks {
     text-align: center;
     padding: 20px 0px 10px 0px;
@@ -352,7 +351,7 @@ hr {
     color: #a8a8a8;
     font-size: 80%;
 }
-
+/*Media Queries*/
 @media screen and (min-width: 567px) {
 
     #photos {
@@ -399,11 +398,7 @@ hr {
         background-color: rgba(60, 60, 60, 0.6);
         padding: 30px;
         width: 50%;
-
-
-
     }
-
 
     main {
         margin-top: 75px;
