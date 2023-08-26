@@ -25,5 +25,16 @@ The purpose of the website is to catch the eye of a potential customer, with bol
   - This section is a clear indication of what the restaurant is about. with images and a brief desciption it give the user infomation without overwhelming them.
   - This section is designed to grab the attention of the user and make the a potentional customer with and explanation into what the restaurant is about.
   
+  
   ![Husk](assets/images/about-team.webp)
+  
+  * Opening times section.
+  * the section is set up in the way it is to show the user the information they are looking for quickly, with no diversion.
+  
+  ![Husk](assets/images/times.webp)
+  
+  * Reservations button.
+  - a link to the reservation page, ease of access for the user.
+
+![Husk](assets/images/book-button.webp)
   
