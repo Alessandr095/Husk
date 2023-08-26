@@ -8,6 +8,9 @@ The purpose of the website is to catch the eye of a potential customer, with bol
 ## Features.
 
 * Navigation Bar.
+* The navigation bar is fully responsive over all the pages on the website on mobile, tablets and phones. The navigation bar includes links to each of the pages and the logo, from home, menu, gallery, reservations
+* it is designed for the user to navigated the website with ease over all devices and screen sizes
 
 ![Husk](assets/images/navbar1.webp)
+
 ![Husk](assets/images/navbar2.webp)
