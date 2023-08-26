@@ -14,3 +14,16 @@ The purpose of the website is to catch the eye of a potential customer, with bol
 ![Husk](assets/images/navbar1.webp)
 
 ![Husk](assets/images/navbar2.webp)
+
+* Landing page of Husk.
+  - This page includes an image of the interior design of the restaurant with aa text overlay clearly describing that what the website is about.
+  - The landing page image is clear and precise and attracts the user to the page with visual information.
+
+![Husk](assets/images/landing.webp)
+  
+* Infomation section.
+  - This section is a clear indication of what the restaurant is about. with images and a brief desciption it give the user infomation without overwhelming them.
+  - This section is designed to grab the attention of the user and make the a potentional customer with and explanation into what the restaurant is about.
+  
+  ![Husk](assets/images/about-team.webp)
+  
