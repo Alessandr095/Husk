@@ -9,4 +9,5 @@ The purpose of the website is to catch the eye of a potential customer, with bol
 
 * Navigation Bar.
 
-![navigation] (assets/images/navbar1.webp)
+![Husk](assets/images/navbar1.webp)
+![Husk](assets/images/navbar2.webp)
