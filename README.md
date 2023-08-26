@@ -53,7 +53,11 @@ The purpose of the website is to catch the eye of a potential customer, with bol
 ![Husk](assets/images/menu.webp)
 
 - Gallery page
-
   - this page provides the user with visual information on to expect at Husk, with HD photography of food, drinks and kitchen in action.
 
 ![Husk](assets/images/gallery.webp)
+
+- Reservation page.
+  - This page allows the user to make a reservation to the restaurant. the user will be asked to input personal information regarding the reservation.
+
+![Husk](assets/images/reserve.webp)
