@@ -148,8 +148,9 @@ main {
     margin-bottom: 20px;
     /* Makes image into a circle */
     border-radius: 50%;
-    max-width: 350px;
-    max-height: 350px;
+    max-width: 300px;
+    max-height: 300px;
+    
 }
 
 #photo2 {
@@ -159,8 +160,9 @@ main {
     margin-bottom: 20px;
     /* Makes image into a circle */
     border-radius: 50%;
-    max-width: 350px;
-    max-height: 350px;
+    max-width: 300px;
+    max-height: 300px;
+   
 }
 
 
