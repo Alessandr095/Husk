@@ -97,3 +97,14 @@ The purpose of the website is to catch the eye of a potential customer, with bol
 - The cause was the auto formatting was taking place during manual save, it was fixed by changing it to prettier formatting.
 
 ![Husk](assets/images/bug.webp)
+
+### Validator testing.
+
+- HTML
+- No errors during testing the HTML code through W3C valiator
+
+![Husk](assets/images/html.webp)
+
+- No errors during testing CSS code through Jigsaw validator
+
+![Husk](assets/images/css.webp)
