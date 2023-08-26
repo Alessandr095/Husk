@@ -105,6 +105,15 @@ The purpose of the website is to catch the eye of a potential customer, with bol
 
 ![Husk](assets/images/html.webp)
 
-- No errors during testing CSS code through Jigsaw validator
+- CSS
+
+* No errors during testing CSS code through Jigsaw validator
 
 ![Husk](assets/images/css.webp)
+
+- Lighthouse score.
+
+  ![Husk](assets/images/lighthouse.webp)
+
+  - Accessability.
+  - I tested visability and accessablity through Wave and no contrast errors, errors or alerts popped up.
