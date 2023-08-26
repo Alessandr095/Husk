@@ -61,3 +61,11 @@ The purpose of the website is to catch the eye of a potential customer, with bol
   - This page allows the user to make a reservation to the restaurant. the user will be asked to input personal information regarding the reservation.
 
 ![Husk](assets/images/reserve.webp)
+
+## Design
+
+- General Structure.
+
+* All colours and shades throughout the website are harmonious, with a deep earthy tone, from the plates in the images of the dishes to the hero images are each page, all linked giving a sense of consistency.
+* A serif font has been used throughout as it give is a more upclass feel to the website, with clean spacing.
+* the design of the website is to be as minimal as possible, it is to be direct and to the point for the user to find infomation and make a reservation based on that information.
