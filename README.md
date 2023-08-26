@@ -80,3 +80,20 @@ The purpose of the website is to catch the eye of a potential customer, with bol
 ![Husk](assets/images/wire.webp)
 
 - the structure of the website with all pages having hero images besides the Gallery give the website consistancy.
+
+### Testing.
+
+- Testing was done on different browsers, such as Safari and Chrome with no faults.
+- The website is responsive on all screen sizes on all devices from mobile, tablet, and desktop screens.
+- All pages on the website work, including links, functionality, accessability and readability.
+- All entries on the form are specific such as an email entry will only be accepted for the email section and for phone number ,this includes phone number pattern for UK numbers.
+
+### Bugs.
+
+- I did not come across anything major during coding, I did come across a formatting issue, causing self closing bracket to move, and odd spacing and tabbing
+
+![Husk](assets/images/bug.webp)
+
+- The cause was the auto formatting was taking place during manual save, it was fixed by changing it to prettier formatting.
+
+![Husk](assets/images/bug-fix.webp)
