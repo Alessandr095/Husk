@@ -5,6 +5,21 @@
 This the website for Husk. A contemporary fine dining restaurant in Surrey.
 The purpose of the website is to catch the eye of a potential customer, with bold high quality photos of our food, interior design and cocktails. The design behind the website is simplicity, eye-catching and easily navigable. The aim of the website is to showcase our work, give brief information about Husk and to make a reservation with ease.
 
+## Design
+
+### General Structure
+
+- All colours and shades throughout the website are harmonious, with a deep earthy tone, from the plates in the images of the dishes to the hero images are each page, all linked giving a sense of consistency.
+
+- A serif font has been used throughout as it give is a more upclass feel to the website, with clean spacing.
+- the design of the website is to be as minimal as possible, it is to be direct and to the point for the user to find infomation and make a reservation based on that information.
+
+### Wire frame
+
+![Husk](assets/images/wire.webp)
+
+- the structure of the website with all pages having hero images besides the Gallery give the website consistancy.
+
 ## Features
 
 - Navigation Bar.
@@ -62,21 +77,6 @@ The purpose of the website is to catch the eye of a potential customer, with bol
 
 ![Husk](assets/images/reserve.webp)
 
-## Design
-
-### General Structure.
-
-- All colours and shades throughout the website are harmonious, with a deep earthy tone, from the plates in the images of the dishes to the hero images are each page, all linked giving a sense of consistency.
-
-* A serif font has been used throughout as it give is a more upclass feel to the website, with clean spacing.
-* the design of the website is to be as minimal as possible, it is to be direct and to the point for the user to find infomation and make a reservation based on that information.
-
-### Wire frame.
-
-![Husk](assets/images/wire.webp)
-
-- the structure of the website with all pages having hero images besides the Gallery give the website consistancy.
-
 ### Testing.
 
 - Testing was done on different browsers, such as Safari and Chrome with no faults.
@@ -84,9 +84,9 @@ The purpose of the website is to catch the eye of a potential customer, with bol
 - All pages on the website work, including links, functionality, accessability and readability.
 - All entries on the form are specific such as an email entry will only be accepted for the email section and for phone number ,this includes phone number pattern for UK numbers.
 
-- Bugs.
+### Bugs.
 
-* I did not come across anything major during coding, I did come across a formatting issue, causing self closing bracket to move, and odd spacing and tabbing
+- I did not come across anything major during coding, I did come across a formatting issue, causing self closing bracket to move, and odd spacing and tabbing
 
 ![Husk](assets/images/bug-fix.webp)
 
@@ -116,11 +116,12 @@ The purpose of the website is to catch the eye of a potential customer, with bol
 
 ### Unfixed bugs.
 
-- no unfixed bugs.
+- No unfixed bugs.
 
   ### Deployment
 
-  - Husk is deployed on GitHub Pages.
+  Husk is deployed on GitHub Pages.
+
   - Steps to deploy :
   - Navigate to the settings tab
   - got to source section and select master branch
