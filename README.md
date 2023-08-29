@@ -42,13 +42,13 @@ I used Noto Serif, because of it's readability, and that it does not get lost on
 
 ![Husk](assets/images/wire.webp)
 
-- the structure of the website with all pages having hero images besides the Gallery give the website consistancy.
+- The structure of the website with all pages having hero images besides the Gallery give the website consistancy.
 
 ## Features
 
 - Navigation Bar.
-  - The navigation bar is fully responsive over all the pages on the website on mobile, tablets and phones. The navigation bar includes links to each of the pages and the logo, from home, menu, gallery, reservations
-  - it is designed for the user to navigated the website with ease over all devices and screen sizes
+  - The navigation bar is fully responsive over all the pages on the website on mobile, tablets and phones. The navigation bar includes links to each of the pages and the logo, from home, menu, gallery, reservations.
+  - It is designed for the user to navigated the website with ease over all devices and screen sizes.
 
 ![Husk](assets/images/navbar1.webp)
 
@@ -69,30 +69,30 @@ I used Noto Serif, because of it's readability, and that it does not get lost on
 
 - Opening times section.
 
-  - the section is set up in the way it is to show the user the information they are looking for quickly, with no diversion.
+  - The section is set up in the way it is to show the user the information they are looking for quickly, with no diversion.
 
 ![Husk](assets/images/times.webp)
 
 - Reservation button
 
-  - a link feature to bring the user directly to the reservation page
+  - A link feature to bring the user directly to the reservation page.
 
 ![Husk](assets/images/book-button.webp)
 
 - The footer.
   - This section includes direct links to social media site of Husk.
-  - all links open in a new tab.
+  - All links open in a new tab.
 
 ![Husk](assets/images/footer.webp)
 
 - Menu page.
   - This page informs the user of what they can expect as a customer dining in the restaurant, by price, each dish with brief description, and service charge.
-  - the page helps the user easily identify what type of restaurant they will be dining at with the structure of infomation provided.
+  - The page helps the user easily identify what type of restaurant they will be dining at with the structure of infomation provided.
 
 ![Husk](assets/images/menu.webp)
 
 - Gallery page
-  - this page provides the user with visual information on to expect at Husk, with HD photography of food, drinks and kitchen in action.
+  - This page provides the user with visual information on to expect at Husk, with HD photography of food, drinks and kitchen in action.
 
 ![Husk](assets/images/gallery.webp)
 
@@ -110,7 +110,7 @@ I used Noto Serif, because of it's readability, and that it does not get lost on
 
 ### Bugs.
 
-- I did not come across anything major during coding, I did come across a formatting issue, causing self closing bracket to move, and odd spacing and tabbing
+- I did not come across anything major during coding, I did come across a formatting issue, causing self closing bracket to move, and odd spacing and tabbing.
 
 ![Husk](assets/images/bug-fix.webp)
 
@@ -120,12 +120,12 @@ I used Noto Serif, because of it's readability, and that it does not get lost on
 
 ### Validator testing.
 
-- HTML
+- HTML.
 - No errors during testing the HTML code through W3C valiator
 
 ![Husk](assets/images/html.webp)
 
-- CSS
+- CSS.
 
 * No errors during testing CSS code through Jigsaw validator
 
@@ -148,7 +148,7 @@ I used Noto Serif, because of it's readability, and that it does not get lost on
 - Codeanywhere - IDE used for writing code.
 - HTML - Language used for structure of website.
 - CSS - Language used for styling the structure of the website.
-- Font Awesome - Used for custom fonts within the website such as website links
+- Font Awesome - Used for custom fonts within the website such as website links.
 - Google Fonts - used for typography throughout the website.
 - Favicon Generator - favicon.io was used to generate my favicon file and code.
 
@@ -161,18 +161,18 @@ I used Noto Serif, because of it's readability, and that it does not get lost on
   Husk is deployed on GitHub Pages.
 
   - Steps to deploy :
-  - Navigate to the settings tab
-  - got to source section and select master branch
-  - once the master branch is selected the site will be live.
+  - Navigate to the settings tab.
+  - Got to source section and select master branch.
+  - Once the master branch is selected the site will be live.
 
   * Live link to Husk can be found here: <https://alessandr095.github.io/Husk/>
 
 ### Credits.
 
 - Code for the nav bar and drop down toggle were used from CI Love Running Project.
-- Code for the Gallery responsivness was used from CI Love Running project
-- Indepth flex box infomation from W3C
-- form semantics from developer.mozilla
+- Code for the Gallery responsivness was used from CI Love Running project.
+- Indepth flex box infomation from W3C.
+- Form semantics from developer.mozilla.
 
 ### Media.
 
