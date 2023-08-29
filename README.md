@@ -5,6 +5,18 @@
 This the website for Husk. A contemporary fine dining restaurant in Surrey.
 The purpose of the website is to catch the eye of a potential customer, with bold high quality photos of our food, interior design and cocktails. The design behind the website is simplicity, eye-catching and easily navigable. The aim of the website is to showcase our work, give brief information about Husk and to make a reservation with ease.
 
+## Target Audience.
+
+As Husk is a casual fine dining restaurant, the target audience is quite vast, anyone who anyone who appreciates food and the finer details in haute cuisine is the target audience. Pricing is on the higher side but not to deter any potential guest from experiencing Husk, the price point is set to the standards we live by such as sustainable produce. Husk is not to be dined at daily or weekly, it is an experience. Our customers are here for celebrations, anniversary or just simply to enjoy a world class dining experience.
+
+## User Stories.
+
+The website will update with time as the menu changes seasonally, but the core of the website will stay the same and returning user and first time user will benefit from the ease of navigation nad infomation.
+
+### As a couple looking for a restaurant to celebrate our wedding anniversary.
+
+The site is fluid to work with, easy and to the point from the first page of brief explanation into what Husk is about, to the menu page to see the current seasonal menu on display, with the gallery page showcasing the current dishes that you will recieve to the booking button or reservation tab to easily making a reservation.
+
 ## Design
 
 ### General Structure
@@ -13,6 +25,18 @@ The purpose of the website is to catch the eye of a potential customer, with bol
 
 - A serif font has been used throughout as it give is a more upclass feel to the website, with clean spacing.
 - the design of the website is to be as minimal as possible, it is to be direct and to the point for the user to find infomation and make a reservation based on that information.
+
+### Colour Palette.
+
+![Husk](assets/images/palette.webp)
+
+The colour palette I went with was a variation of whites and blacks, so that all the other elements are accentuated, such as the logo, images and menu structure.
+
+### Typography.
+
+![Husk](assets/images/fonts.webp)
+
+I used Noto Serif, because of it's readability, and that it does not get lost on a white background, for its application for a fine dining restaurant, it is a classy, classic font.
 
 ### Wire frame
 
