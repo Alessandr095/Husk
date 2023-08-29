@@ -135,8 +135,22 @@ I used Noto Serif, because of it's readability, and that it does not get lost on
 
 ![Husk](assets/images/lighthouse.webp)
 
+- Wave summary.
+
+![Husk](assets/images/wave.webp)
+
 - Accessability.
-- I tested visability and accessablity through Wave and no contrast errors, errors or alerts popped up.
+- I tested visability and accessablity through Wave and no contrast errors, errors or popped up.
+
+### Technologies and Languages used.
+
+- Github - used for repositories and deployment of website through github pages.
+- Codeanywhere - IDE used for writing code.
+- HTML - Language used for structure of website.
+- CSS - Language used for styling the structure of the website.
+- Font Awesome - Used for custom fonts within the website such as website links
+- Google Fonts - used for typography throughout the website.
+- Favicon Generator - favicon.io was used to generate my favicon file and code.
 
 ### Unfixed bugs.
 
