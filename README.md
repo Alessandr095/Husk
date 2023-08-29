@@ -177,3 +177,9 @@ I used Noto Serif, because of it's readability, and that it does not get lost on
 ### Media.
 
 - All media for Husk website was used from Pintrest.
+
+### Problems.
+
+![Husk](assets/images/test.webp)
+
+I have an issue with my branch diverting while updating my readme file, I could not get around the problem of my readme edits not changing on GitHub so I uploaded the edited file straight to GitHub and that is when the problem occurred. I eventually fixed in by myself, but had to go through a few hoops, that is why there are multiple “test” commits, I was trying to fix the problem, which I eventually did fix.
